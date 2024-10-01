@@ -1,3 +1,14 @@
+# Phonebook Application Developed Using Flutter/Dart
+
+# Features
+## - Add Contact
+## - Take Picture
+## - Delete Contact
+## - Edit Contact
+
+### NOTE: Please create a folder named phone_book and place the project files inside it; otherwise, it will not work.
+
+
 # Flutter Dart kullanılarak geliştirilmiş olan Telefon Rehberi Uygulamasıdır
 
 # Özellikleri
